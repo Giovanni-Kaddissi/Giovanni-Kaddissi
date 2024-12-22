@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Giovanni-Kaddissi
+- 👀 I’m interested in Cyber Seucrity, GenAI , System and Network Administration, Cloud technologies and more.
+- 🌱 I’m currently learning Generative AI and Cyber Security specifically focusing on Network Security
+- 💞️ I’m looking to collaborate on enhancing my ICMP Covert Channel Ranking System Model (CCRS or C2RS) by adding more detection features and make it compatible on Linux OS and IoT.
+- 📫 How to reach me : You can send me a message here on GitHub!
+- 😄 Pronouns: Gio
+- ⚡ Fun fact: If you can beat me 1v1 in Counter-Strike 1.6 , map awp_india.bsp or aim_dust2003.bsp , I will make you my partner :D (no scripts ;) )
