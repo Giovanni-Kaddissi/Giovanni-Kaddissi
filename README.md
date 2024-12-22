@@ -14,7 +14,10 @@
 ## Model Project file:
 **_CCRS.py_**
 
+## Related MSc Thesis Paper:
+Securing Networks Against ICMP Covert Channels: Detection and Countermeasures
 
+ 
 ## What is it ? 
 **Developed in 2024 by Giovanni Kaddissi during his Masters Degree in Cyber Security and Forensics,** The ICMP C2RS Model is a Python-based sniffer designed to detect covert data exfiltration through ICMP (Internet Control Message Protocol) packets in real-time on Windows systems.
 
