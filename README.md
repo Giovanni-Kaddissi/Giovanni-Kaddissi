@@ -33,7 +33,7 @@ These collected metrics can be used to append the model further over code, since
 - Intrusion Detection: Enhance the detection of compromised systems in a network, especially those utilizing covert channels for communication.
 - Monitoring and Forensics: Provides a tool for administrators to monitor network traffic for anomalies and investigate potential breaches.
 
-## How to use and test it ?
+## How to use ?
 Simply ensure you have Python installed on your os with the required libraries, and run the tool:
 
 **_python CCRS.py_**
@@ -47,3 +47,32 @@ Important libabry to meet:
 - pip install scapy
 - pip install libpcap
 - pip install winpcap or download it from https://npcap.com/#download
+
+
+
+
+## Play around as a white-hat-hacker to test the model's metrics.
+
+***PLEASE DO NOT USE FOR HARMING PURPOSES, THIS IS ONLY FOR EDUCATIONAL PURPOSES and TEST THE MODEL***
+======================================================================================================
+
+I have uploaded a file named **"ICMP Covert Channels - Data Exfiltration Simulations.rar"**
+
+The file contains 5 scenarios of Sending and Receiving packets over ICMP, as ICMP Covert Channels, which are:
+- 1- IP Header Exfiltration:
+	- Manipulation of the IP Identification ID Field in the IP Header.
+	- Options Manipulation in the IP Header of the ICMP Packet
+
+
+- 2- ICMP Header Exfiltration:
+	 - ICMP Header Manipulation: Type and Code fields
+
+- 3- Payload Exfiltration
+	- Ptunnel -- Connect to a website via icmp // modified version to make it easier for my use case, original author is https://github.com/utoni/ptunnel-ng
+	- Send a file over icmp
+
+
+Ensure you are running **_python CCRS.py_** aside, while you run each scenario for your use case, and you will see the model's behavior by collecting different type of metrics for each section of the ICMP Packet. You can modify the scenarios for your use case, simply edit them.
+
+
+
