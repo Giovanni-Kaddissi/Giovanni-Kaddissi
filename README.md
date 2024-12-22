@@ -35,7 +35,7 @@ The model collects metrics for each destination address being contacted from the
 These collected metrics can be used to append the model further over code, since it's open source, by invoking a specific behavior based on the user's need, for example "Send an Alert" or "Isolate the host" or whatever.
 
 
-## Use cases:
+## Use cases - Includes but not limited to:
 - Network Security: Detect covert data exfiltration attempts by malicious actors using ICMP packets to bypass traditional network security measures.
 - Intrusion Detection: Enhance the detection of compromised systems in a network, especially those utilizing covert channels for communication.
 - Monitoring and Forensics: Provides a tool for administrators to monitor network traffic for anomalies and investigate potential breaches.
