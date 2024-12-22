@@ -11,11 +11,15 @@
 
 # Model : ICMP C2RS Model: Covert Channel Ranking System
 
-## Model Project file:
-**_CCRS.py_**
-
 ## Related MSc Thesis Paper:
 Securing Networks Against ICMP Covert Channels: Detection and Countermeasures
+
+
+
+# Model Project file:
+**_CCRS.py_**
+
+
 
  
 ## What is it ? 
