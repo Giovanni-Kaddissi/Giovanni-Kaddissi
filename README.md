@@ -56,7 +56,7 @@ Important libabry to meet:
 ***PLEASE DO NOT USE FOR HARMING PURPOSES, THIS IS ONLY FOR EDUCATIONAL PURPOSES and TEST THE MODEL***
 ======================================================================================================
 
-I have uploaded a file named **"ICMP Covert Channels - Data Exfiltration Simulations.rar"**
+I have uploaded a file named **"_ICMP Covert Channels - Data Exfiltration Simulations.rar_"**
 
 The file contains 5 scenarios of Sending and Receiving packets over ICMP, as ICMP Covert Channels, which are:
 - 1- IP Header Exfiltration:
