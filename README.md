@@ -11,8 +11,8 @@
 
 # Model : ICMP C2RS Model: Covert Channel Ranking System
 
-## Project file:
-CCRS.py
+## Model Project file:
+**_CCRS.py_**
 
 
 ## What is it ? 
