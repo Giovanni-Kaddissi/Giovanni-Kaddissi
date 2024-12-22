@@ -72,7 +72,10 @@ The file contains 5 scenarios of Sending and Receiving packets over ICMP, as ICM
 	- Send a file over icmp
 
 
+For each scenario, you have a **SEND** and **Receive** scripts over python, that will craft the ICMP Packet to send it based on the specified scenario, some of them contains commands on how to send as well.
+
 Ensure you are running **_python CCRS.py_** aside, while you run each scenario for your use case, and you will see the model's behavior by collecting different type of metrics for each section of the ICMP Packet. You can modify the scenarios for your use case, simply edit them.
+
 
 
 
